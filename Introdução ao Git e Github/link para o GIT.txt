@@ -1,0 +1,2 @@
+link do GIT BASH:
+https://git-scm.com/downloads
